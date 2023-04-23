@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLTasks", "OLTasks\OLTasks.csproj", "{8C1C5D82-5312-4E9B-8D72-8F3594BA23FF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C1C5D82-5312-4E9B-8D72-8F3594BA23FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1C5D82-5312-4E9B-8D72-8F3594BA23FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1C5D82-5312-4E9B-8D72-8F3594BA23FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1C5D82-5312-4E9B-8D72-8F3594BA23FF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DBE25711-D3F5-4762-B379-A0F49FD31A66}
+	EndGlobalSection
+EndGlobal
